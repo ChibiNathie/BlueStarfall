@@ -52,6 +52,8 @@ overflow:auto;}
 .RPA {background: var(--SCo);}
 .RPAL {border-left: 5px solid var(--SCo);}
 
+.FLBSRPs {    display: flex;
+    margin: 15px 0 30px 0;}
 .FLBSRPsC {font-family: var(--f3);
     font-weight: 600;
     font-size: 16px;
