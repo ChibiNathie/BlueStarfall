@@ -1,0 +1,33 @@
+/*FICHE LIENS BLUE STARFALL BY NATHIE*/
+.FLBS1 {margin:20px 0;border-bottom:1px solid var(--neutralDarker);padding-bottom:5px;}
+.FLBS1PN {font-family:var(--f3);text-transform:uppercase;font-weight:600;font-size:16px;}
+.FLBS1NL {color:var(--MCo);text-transform:lowercase;margin-left:10px;}
+.FLBS1D {background:var(--neutralDark);padding:10px;border-radius:5px;margin-top:5px;font-size:12px;height:60px;overflow:auto;}
+
+.FLBS2 {column-count:2;column-gap:20px;}
+.FLBS2B {width:320px;margin-bottom:20px;padding-bottom:10px;border-bottom:1px solid var(--neutralDarker);}
+.FLBS2R1 {display:flex;gap:20px;}
+.FLBS2I {background:var(--Gra2);width:100px;height:100px;}
+.IFLBS2 {width:100px;height:100px;transform:rotate(-5deg);}
+.FLBS2PN {background:var(--neutralDarker);padding:5px 15px 5px 20px;border-radius:0 10px 10px 0;margin-top:15px;font-weight:600;margin-left:-20px;}
+.FLBS2N {font-size:12px;text-transform:lowercase;color:var(--MCo);}
+.FLBS2D {margin:10px 0;padding:5px;font-size:13px;background:var(--neutralDark);height:60px;overflow:auto;}
+.FLBS2R2 {display:flex;gap:20px;}
+.FLBS2Rp {width:200px;height:50px;padding:0 5px;overflow:auto;}
+.FLBS2C2 {width:100px;}
+.FLBS2S {margin-bottom:5px;height:20px;overflow:auto;}
+.FLBS2H {padding:2px;text-align:center;background:var(--MCo);border-radius:10px;color:var(--Whi);font-size:12px;}
+.FLBS2Rp a:hover, .FLBS2S a:hover {color:var(--TCo);}
+
+.FLBS3 {display:flex;flex-wrap:wrap;gap:30px;justify-content:flex-start;}
+.FLBS3B {width:200px;height:316px;overflow:hidden;}
+.AvaFPBS3 {width:200px;border:3px solid var(--neutralDarker);}
+.FLBS3PN {background:var(--neutral);position:relative;top:-80px;text-align:center;font-weight:600;font-family:var(--f3);padding:5px;border:1px solid var(--neutralDarker);}
+.FLBS3B2 {transition:500ms;transform:scale(0);text-align:center;height:316px;background:var(--BT);position:relative;top:-350px;}
+.FLBS3G {padding-top:20px;}
+.GiFLBS3 {width:150px;height:75px;border:3px solid var(--neutral);}
+.FLBS3N {background:var(--neutral);margin:10px;font-size:12px;padding:2px;}
+.FLBS3D {background:var(--neutral);margin:10px;padding:5px;font-size:12px;text-align:justify;height:160px;overflow:auto;}
+.FLBS3B:hover .FLBS3B2 {transition:400ms;transform:scale(1);}
+
+
