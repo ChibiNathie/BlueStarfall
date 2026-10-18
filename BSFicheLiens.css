@@ -31,3 +31,65 @@
 .FLBS3B:hover .FLBS3B2 {transition:400ms;transform:scale(1);}
 
 
+àà.FLBSRPs {display: flex;
+margin: 15px 0 30px 0;}
+.FLBSRPsT {writing-mode: sideways-lr;
+    padding: 15px 5px;
+    border-radius: 5px 0 0 5px;
+    color: var(--Whi);
+    margin-top: 10px;
+    height: fit-content;}
+.RPOG {
+  background: var(--MCo);}
+.FLBSRPsL {    padding: 10px;
+    height: 200px;
+overflow:auto;}
+.RPOGL {
+    border-left: 5px solid var(--MCo);
+}
+.RPT {background: var(--TCo);}
+.RPTL {border-left: 5px solid var(--TCo);}
+.RPA {background: var(--SCo);}
+.RPAL {border-left: 5px solid var(--SCo);}
+
+.FLBSRPsC {font-family: var(--f3);
+    font-weight: 600;
+    font-size: 16px;
+    margin: 0 auto 10px;
+    border-bottom: 3px solid;
+    padding: 0 50px;
+    color: var(--SCo);
+    width: fit-content;
+	transition:400ms;}
+.FLBSRPsC:hover {transition:400ms;letter-spacing:2px;}
+.FLBSRPs2L {padding:0 20px;    text-align: center;}
+.FLBSRPsLe {text-align: center;
+    font-size: 12px;
+    padding: 5px 10px;
+    width: fit-content;
+    border: 1px solid var(--neutralDarker);
+    margin: auto;
+    border-radius: 5px;}
+
+.FLBSCA {    font-family: var(--f3);
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 1px;}
+/*CHRONOLOGIE*/
+.SetChrono {gap:10px;width:600px;margin:auto;display:-ms-grid;display:grid;-ms-grid-columns:105px 1fr;grid-template-columns:105px 1fr;padding:0 30px;}
+.SetChrono date {-ms-grid-column:1;grid-column:1;display:block;font-weight:bold;padding:10px 10px 0px 10px;position:relative;text-align:center;font-family:var(--f3);font-size:20px;line-height:1.1;border-left:2px solid var(--textColor);color:var(--MCo);}
+.SetChrono date:before {content:"";display:block;height:15px;width:15px;top:25px;left:-8px;position:absolute;border-radius:50%;background-color:var(--MCo);}
+.SetChrono event1 {display:block;-ms-grid-column:2;grid-column:2;margin:auto;width:100%;border-right:5px solid var(--MCo);transition:400ms;}
+.SetChrono event2 {display:block;-ms-grid-column:2;grid-column:2;margin:auto;width:100%;border-right:5px solid var(--SCo);transition:400ms;}
+.SetChrono event1:hover {border-right:10px solid var(--MCo);transition:300ms;}
+.SetChrono event2:hover {border-right:10px solid var(--SCo);transition:300ms;}
+.ChTitleRP b1 {    text-overflow: ellipsis;
+    max-width: 200px;
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    line-height: 1;}
+.ChTitleRP ft {font-size:11px;font-style:italic;}
+.ChDescRP {padding-right:10px;font-size:12px;text-align:justify;height:50px;overflow:auto;}
+.SetChrono date2 {-ms-grid-column:1;grid-column:1;display:block;font-weight:bold;padding:10px 10px 0px 10px;position:relative;text-align:center;font-family:var(--f3);font-size:20px;line-height:1.1;border-left:2px solid var(--textColor);color:var(--SCo);}
+.SetChrono date2:before {content:"";display:block;height:15px;width:15px;top:25px;left:-8px;position:absolute;border-radius:50%;background-color:var(--SCo);}
