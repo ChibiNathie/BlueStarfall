@@ -15,13 +15,13 @@
 .BSInstaB {width:600px;margin:auto;padding:20px;border:1px solid var(--neutralDarker);border-radius:20px;}
 .BSInRowT {display:flex;justify-content:space-between;gap:20px;font-weight:bold;font-family:var(--font2);font-size:16px;}
 .BSInRow2 {display:flex;justify-content:space-between;gap:100px;align-items:center;margin:15px 0;}
-.IconInsta {min-width:100px;height:100px;padding:5px;border-radius:50%;border:3px solid var(--C1);}
+.IconInsta {min-width:100px;height:100px;padding:5px;border-radius:50%;border:3px solid var(--MCo);}
 .BSInNu {display:flex;gap:40px;text-align:center;}
 .BSInInP {font-weight:bold;letter-spacing:1px;}
-.BSInInB {margin:5px 0;color:var(--C1);}
+.BSInInB {margin:5px 0;color:var(--MCo);}
 .InstaPostImg {width:184px;height:184px;}
 .BSInPost {display:flex;flex-wrap:wrap;gap:3px;margin-top:20px;}
-.ImgPostInsta {width:50px;height:50px;padding:3px;border:2px solid var(--C1);border-radius:50%;}
+.ImgPostInsta {width:50px;height:50px;padding:3px;border:2px solid var(--MCo);border-radius:50%;}
 .BSInstaPoR1 {display:flex;align-items:center;font-weight:bold;gap:10px;margin-bottom:10px;}
 .BSInstaPoImg {width:558px;height:558px;border-radius:10px;border:1px solid var(--neutralDarker);}
 .BSInstaPoSt {margin:5px 0;font-size:20px;display:flex;align-items:center;gap:10px;}
@@ -36,7 +36,7 @@
 .BSXR1 {display:flex;justify-content:space-between;align-items:flex-end;padding:15px;font-size:24px;margin-top:-70px;}
 .XIconPo {width:125px;height:125px;border-radius:50%;border:5px solid var(--neutral);}
 .BSXInPro {padding:0 20px;}
-.BSXName {font-weight:bold;font-size:18px;font-family:var(--font2);}
+.BSXName {font-weight:bold;font-size:18px;font-family:var(--f3);}
 .BSXPseudo {font-size:12px;}
 .BSXSen {margin:10px 0;}
 .BSXInfos {display:flex;gap:10px;flex-wrap:wrap;}
@@ -45,7 +45,7 @@
 .BSXPost {padding:15px;display:flex;flex-wrap:wrap;align-items:flex-start;gap:10px;}
 .XIconPost {width:50px;height:50px;border-radius:50%;}
 .BSXPostIn {width:505px;}
-.BSXPostInfos {font-weight:bold;font-size:16px;font-family:var(--font2);margin-bottom:5px;}
+.BSXPostInfos {font-weight:bold;font-size:16px;font-family:var(--f3);margin-bottom:5px;}
 .BSXPostInfos span {font-weight:normal;font-size:12px;margin-left:5px;}
 .XIconPostImg {border:1px solid var(--neutralDarker);border-radius:20px;}
 .BSXPostSta {display:flex;gap:60px;margin-top:10px;}
@@ -62,18 +62,18 @@
 .BSTTB {width:500px;margin:auto;text-align:center;padding:20px;border:1px solid var(--neutralDarker);border-radius:15px;}
 .BSTTIcon {margin-bottom: 10px;}
 .IconTiktok {width:100px;height:100px;border-radius:50%;}
-.BSTTInfoB {font-family:var(--font2);}
+.BSTTInfoB {font-family:var(--f3);}
 .BSTTInfoB span {font-weight:bold;font-size:18px;}
 .BSTTStatsPro {display:flex;justify-content:center;gap:50px;margin:15px 0;}
 .BSTTBio {margin-bottom:40px;}
 .BSTTVidPro {display:flex;flex-wrap:wrap;gap:2px;text-align:left;}
 .VidTTImg {width:150px;height:220px;}
-.BSTTVPrS {margin-top:-30px;margin-bottom:8px;margin-left:10px;color:var(--Pale);}
+.BSTTVPrS {margin-top:-30px;margin-bottom:8px;margin-left:10px;color:var(--Whi);}
 .BSTTStVid {display:grid;gap:20px;}
 .BSTTVideo {display:flex;gap:10px;align-items:flex-end;margin-bottom:10px;}
 .BSTTStVidIn {font-size:10px;}
 .BSTTStVid ion-icon {font-size:26px;}
-.BSTTStVidIn span {padding:3px 8px;background:var(--C1);color:var(--Pale);border-radius:10px;font-size:12px;position:relative;top:-15px;font-weight:bold;}
+.BSTTStVidIn span {padding:3px 8px;background:var(--MCo);color:var(--Whi);border-radius:10px;font-size:12px;position:relative;top:-15px;font-weight:bold;}
 .BSTTVidAu {text-align:left;font-weight:bold;font-size:16px;}
 .FSTTVidDes {text-align:left;}
 .BSTTShared {gap:10px;text-align:left;margin-bottom:10px;display:flex;align-items:center;}
@@ -82,8 +82,8 @@
 
 
 /*TINDER*/
-.BSTinder {margin:auto;box-sizing:border-box;width:320px;background:var(--MColor);border:1px solid var(--MColor);border-radius:5px;}
-.TTinder {font-family:var(--fontSub);text-align:center;font-size:34px;letter-spacing:5px;font-weight:600;padding:15px 0;color:var(--neutral)}
+.BSTinder {margin:auto;box-sizing:border-box;width:320px;background:var(--MCo);border:1px solid var(--MCo);border-radius:5px;}
+.TTinder {font-family:var(--f3);text-align:center;font-size:34px;letter-spacing:5px;font-weight:600;padding:15px 0;color:var(--neutral)}
 .ImgBioTinder {border-radius:20px;background:var(--neutral);padding:15px;text-align:justify;}
 .ImgTinder {width:200px;border-radius:20px;filter:drop-shadow(5px 5px 5px var(--neutralDarker));margin-bottom:10px;}
 .ButTinder {padding:10px;text-align:center;}
@@ -91,5 +91,5 @@
 .ButTinM {width:50px;padding:5px;}
 .ButTinder img {transition:500ms;}
 .ButTinder img:hover {transition:500ms;transform:scale(1.2);cursor:crosshair;}
-.ImgTindM {object-fit:cover;object-position:top;width:100px;height:100px;border-radius:50%;border:1px solid var(--MColor);}
+.ImgTindM {object-fit:cover;object-position:top;width:100px;height:100px;border-radius:50%;border:1px solid var(--MCo);}
 .TindMa {display:flex;align-items:center;margin-bottom:10px;width:250px;}
