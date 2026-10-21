@@ -1,0 +1,71 @@
+/*CODE BY NATHIE*/
+
+
+/*INSTAGRAM*/
+.BSInstaB {width:600px;margin:auto;padding:20px;border:1px solid var(--neutralDarker);border-radius:20px;}
+.BSInRowT {display:flex;justify-content:space-between;gap:20px;font-weight:bold;font-family:var(--font2);font-size:16px;}
+.BSInRow2 {display:flex;justify-content:space-between;gap:100px;align-items:center;margin:15px 0;}
+.IconInsta {min-width:100px;height:100px;padding:5px;border-radius:50%;border:3px solid var(--C1);}
+.BSInNu {display:flex;gap:40px;text-align:center;}
+.BSInInP {font-weight:bold;letter-spacing:1px;}
+.BSInInB {margin:5px 0;color:var(--C1);}
+.InstaPostImg {width:184px;height:184px;}
+.BSInPost {display:flex;flex-wrap:wrap;gap:3px;margin-top:20px;}
+.ImgPostInsta {width:50px;height:50px;padding:3px;border:2px solid var(--C1);border-radius:50%;}
+.BSInstaPoR1 {display:flex;align-items:center;font-weight:bold;gap:10px;margin-bottom:10px;}
+.BSInstaPoImg {width:558px;height:558px;border-radius:10px;border:1px solid var(--neutralDarker);}
+.BSInstaPoSt {margin:5px 0;font-size:20px;display:flex;align-items:center;gap:10px;}
+.BSInstaPostCo span {font-weight:bold;margin-right:10px;}
+.BSBInsta {font-weight:bold;margin-left:20px;margin-right:10px;}
+.BSInstaIn {display:flex;align-items:center;}
+
+
+/*TWITTER X*/
+.BSXB {width:600px;margin:auto;border:1px solid var(--neutralDarker);}
+.XBanImg {width:598px;height:225px;}
+.BSXR1 {display:flex;justify-content:space-between;align-items:flex-end;padding:15px;font-size:24px;margin-top:-70px;}
+.XIconPo {width:125px;height:125px;border-radius:50%;border:5px solid var(--neutral);}
+.BSXInPro {padding:0 20px;}
+.BSXName {font-weight:bold;font-size:18px;font-family:var(--font2);}
+.BSXPseudo {font-size:12px;}
+.BSXSen {margin:10px 0;}
+.BSXInfos {display:flex;gap:10px;flex-wrap:wrap;}
+.BSXInSt {gap:8px;display:flex;align-items:center;}
+.BSXSt {margin:10px 0;}
+.BSXPost {padding:15px;display:flex;flex-wrap:wrap;align-items:flex-start;gap:10px;}
+.XIconPost {width:50px;height:50px;border-radius:50%;}
+.BSXPostIn {width:505px;}
+.BSXPostInfos {font-weight:bold;font-size:16px;font-family:var(--font2);margin-bottom:5px;}
+.BSXPostInfos span {font-weight:normal;font-size:12px;margin-left:5px;}
+.XIconPostImg {border:1px solid var(--neutralDarker);border-radius:20px;}
+.BSXPostSta {display:flex;gap:60px;margin-top:10px;}
+.BSXPStaSt {display:flex;gap:10px;align-items:center;}
+.BSXPostInQu {width:415px;}
+.XPostIN {max-width:500px;}
+.XPostIQ {max-width:410px;}
+.BSXQu {border:1px solid var(--neutralDarker);border-radius:10px;}
+.BSXRep {margin-bottom:5px;font-style:italic;font-size:12px;}
+.BSXPostRt {margin:15px 15px 0 15px;font-weight:bold;font-size:13px;}
+
+
+/*TIKTOK*/
+.BSTTB {width:500px;margin:auto;text-align:center;padding:20px;border:1px solid var(--neutralDarker);border-radius:15px;}
+.BSTTIcon {margin-bottom: 10px;}
+.IconTiktok {width:100px;height:100px;border-radius:50%;}
+.BSTTInfoB {font-family:var(--font2);}
+.BSTTInfoB span {font-weight:bold;font-size:18px;}
+.BSTTStatsPro {display:flex;justify-content:center;gap:50px;margin:15px 0;}
+.BSTTBio {margin-bottom:40px;}
+.BSTTVidPro {display:flex;flex-wrap:wrap;gap:2px;text-align:left;}
+.VidTTImg {width:150px;height:220px;}
+.BSTTVPrS {margin-top:-30px;margin-bottom:8px;margin-left:10px;color:var(--Pale);}
+.BSTTStVid {display:grid;gap:20px;}
+.BSTTVideo {display:flex;gap:10px;align-items:flex-end;margin-bottom:10px;}
+.BSTTStVidIn {font-size:10px;}
+.BSTTStVid ion-icon {font-size:26px;}
+.BSTTStVidIn span {padding:3px 8px;background:var(--C1);color:var(--Pale);border-radius:10px;font-size:12px;position:relative;top:-15px;font-weight:bold;}
+.BSTTVidAu {text-align:left;font-weight:bold;font-size:16px;}
+.FSTTVidDes {text-align:left;}
+.BSTTShared {gap:10px;text-align:left;margin-bottom:10px;display:flex;align-items:center;}
+.BSTTNot {display:flex;gap:10px;align-items:flex-start;border:1px solid var(--neutralDarker);padding:15px;border-radius:15px;width:400px;margin:auto;}
+.BSTTNoN {font-size:12px;letter-spacing:1px;margin-bottom:15px;}
