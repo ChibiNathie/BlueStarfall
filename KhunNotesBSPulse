@@ -1,0 +1,268 @@
+/* CODE BY NATHIE */
+
+/* Khun Notes Part */
+
+.BSKhunNotesBlog {
+  width:880px;
+  margin:auto;
+  box-sizing: border-box;
+}
+
+.BSKNBBanI {
+  object-fit:cover;
+  object-position:center;
+  width:880px;
+  height:150px;
+}
+
+.BSKNBAvaI {
+  object-fit:cover;
+  object-position:center;
+  width:100px;
+  height:100px;
+  margin-top:-50px;
+  margin-left:50px;
+  border:5px solid var(--neutral);
+  border-radius:50%;
+}
+
+.BSKNBR1 {
+  margin-top:10px;
+  padding:0 20px;
+  display:flex;
+  gap:20px;
+  align-items: flex-end;
+}
+
+.BSKNBSuj {
+  font-family:var(--f3);
+  padding:2px 30px;
+  background:var(--Gra1);
+  width:fit-content;
+  text-transform:uppercase;
+  font-weight:700;
+  font-size:12px;
+  letter-spacing:1px;
+  border-radius:5px;
+}
+
+.BSKNBDat {
+  color:var(--SCo);
+  text-transform:lowercase;
+  font-style:italic;
+  letter-spacing:-1px;
+}
+
+.BSKNBTit {
+  font-family:var(--f3);
+  margin-top:5px;
+  font-size:18px;
+  text-transform:uppercase;
+  padding:10px;
+}
+
+.BSKNBTex {
+  padding:10px;
+  text-align:justify;
+}
+
+.BSKNBHou {
+  color:var(--neutralDarker);
+  text-align:right;
+  text-transform:lowercase;
+  padding-right:10px;
+  border-bottom:1px solid var(--neutralDark);
+}
+
+.BSKNBImg {
+  margin:auto;
+  width:fit-content;
+  margin-top:20px;
+}
+
+.BSKNBI {
+  object-position:center;
+  object-fit:cover;
+  width:550px;
+  height:100px;
+}
+
+
+
+/*Blue Starfall Pulse Part */
+
+.BSBSPBlog {
+  width:880px;
+  margin:auto;
+  box-sizing: border-box;
+}
+
+.BSBSPBlP1 {
+  border-top:10px solid var(--neutralDark);
+  border-bottom:10px solid var(--neutralDark);
+  padding:10px 10px 40px 10px;
+}
+
+.BSBSPEd {
+  font-family:var(--f3);
+  text-transform:uppercase;
+  letter-spacing:1px;
+  margin-left:30px;
+  margin-bottom:20px;
+}
+
+.BSBSPMTi {
+  font-family:var(--f2);
+  font-size:50px;
+  line-height:0.8;
+  margin-bottom:10px;
+  margin-left:10px;
+}
+
+.BSBSPMImg {
+  margin:auto;
+  width:850px;
+}
+
+.BSBSPMI {
+  width:850px;
+  height:600px;
+  object-fit:cover;
+  object-position:center;
+  
+}
+
+.BSBSPSTi {
+  font-family:var(--f3);
+  font-size:22px;
+  text-transform:uppercase;
+  background:var(--neutral);
+  padding:5px 10px;
+  margin-top:-580px;
+  position:relative;
+  max-width:550px;
+  font-weight:700;
+  margin-left:5px;
+}
+
+.BSBSPTTi {
+  font-family:var(--f3);
+  font-size:18px;
+  text-transform:uppercase;
+  background:var(--neutral);
+  padding:5px 10px;
+  position:relative;
+  font-weight:700;
+  margin:300px 0 0 535px;
+  text-align:right;
+  width:300px;
+}
+
+.BSBSPSI {
+  width:200px;
+  height:200px;
+  object-position:center;
+  object-fit:cover;
+  border:5px solid var(--neutralDark);
+  position:relative;
+  margin-top:-15px;
+  margin-left:-5px;
+}
+
+.BSBSPQTi {
+  font-family:var(--f3);
+  font-size:14px;
+  text-transform:uppercase;
+  background:var(--neutral);
+  padding:5px 10px;
+  position:relative;
+  font-weight:700;
+  margin:-70px 0 0 200px;
+  width:300px;
+}
+
+.BSBSPBlP2 {
+  margin-top:10px;
+  padding:10px;
+  margin-bottom:30px;
+}
+
+.BSBSPBlP2Ti {
+  font-weight:700;
+  font-size:16px;
+  font-family:var(--f3);
+  letter-spacing:1px;
+  text-transform:uppercase;
+  background:var(--Gra1);
+  padding:5px 20px;
+  border-radius:5px;
+  margin-bottom:10px;
+  width:fit-content;
+}
+
+.BSBSPBlP3Ti {
+  font-weight:700;
+  font-size:16px;
+  font-family:var(--f3);
+  letter-spacing:1px;
+  text-transform:uppercase;
+  background:var(--Gra1);
+  padding:5px 20px;
+  border-radius:5px;
+  margin-bottom:10px;
+  margin-left:auto;
+  width:fit-content;
+}
+
+.BSBSPBlP4Ti {
+  font-weight:700;
+  font-size:16px;
+  font-family:var(--f3);
+  letter-spacing:1px;
+  text-transform:uppercase;
+  background:var(--Gra1);
+  padding:5px 20px;
+  border-radius:5px;
+  margin:0 auto 10px auto;
+  width:fit-content;
+}
+
+.BSBSPBlP2Te {
+  columns: 2;
+  text-align:justify;
+}
+
+.BSBSPBlP2Te2 {
+  columns: 3;
+  text-align:justify;
+}
+
+.BSBSPBlP2 span {
+  font-weight:600;
+  }
+
+.BSBSPBlP2I {
+  object-fit:cover;
+  object-position:center;
+  border:5px solid var(--neutralDark);
+  width:415px;
+  height:250px;
+}
+
+.BSBSPBlP2I2 {
+  object-fit:cover;
+  object-position:center;
+  border:5px solid var(--neutralDark);
+  width:270px;
+  height:100px;
+}
+
+.BSBSPBlEnd {
+  text-transform:uppercase;
+  font-family:var(--f3);
+  font-size:10px;
+  text-align:right;
+  border-bottom:1px solid var(--neutralDarker);
+  color:var(--neutralDarker);
+  margin-bottom:10px;
+}
