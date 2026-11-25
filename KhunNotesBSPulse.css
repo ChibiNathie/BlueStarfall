@@ -154,7 +154,7 @@
   padding:5px 10px;
   position:relative;
   font-weight:700;
-  margin:300px 0 0 535px;
+  margin:300px 0 0 555px;
   text-align:right;
   width:300px;
 }
@@ -178,7 +178,7 @@
   padding:5px 10px;
   position:relative;
   font-weight:700;
-  margin:-70px 0 0 200px;
+  margin:-70px 0 0 195px;
   width:300px;
 }
 
@@ -199,6 +199,7 @@
   border-radius:5px;
   margin-bottom:10px;
   width:fit-content;
+  color:var(--Bla);
 }
 
 .BSBSPBlP3Ti {
@@ -213,6 +214,7 @@
   margin-bottom:10px;
   margin-left:auto;
   width:fit-content;
+  color:var(--Bla);
 }
 
 .BSBSPBlP4Ti {
@@ -226,16 +228,19 @@
   border-radius:5px;
   margin:0 auto 10px auto;
   width:fit-content;
+  color:var(--Bla);
 }
 
 .BSBSPBlP2Te {
   columns: 2;
   text-align:justify;
+  gap:30px;
 }
 
 .BSBSPBlP2Te2 {
   columns: 3;
   text-align:justify;
+  gap:30px;
 }
 
 .BSBSPBlP2 span {
