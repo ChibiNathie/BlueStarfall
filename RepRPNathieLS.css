@@ -10,6 +10,7 @@
 
 .BSRP1Ban {
   border-bottom:10px solid var(--TCo);
+  height:260px;
 }
 
 .BSRP1BanImg {
@@ -87,7 +88,7 @@
 
 .BSRP2Img {
   margin-left:30px;
-  margin-top:-25px;
+  margin-top:-20px;
 }
 
 .BSRP2I {
@@ -243,6 +244,7 @@
 .BSRP4Gif {
   text-align:right;
   margin-top:-40px;
+  margin-right:10px;
 }
 
 .BSRP4Img {
@@ -301,7 +303,7 @@
   padding:5px;
   background:var(--MCo);
   border-radius:5px;
-  height:160px;
+  height:170px;
   margin-bottom:10px;
 }
 
@@ -309,7 +311,7 @@
   padding:5px;
   background:var(--TCo);
   border-radius:5px;
-  height:160px;
+  height:170px;
 }
 
 .BSRP5Img {
@@ -357,6 +359,7 @@
   width:fit-content;
   margin:-15px auto 10px auto;
   position:relative;
+  color:var(--Bla);
 }
 
 .BSRP6Ft {
